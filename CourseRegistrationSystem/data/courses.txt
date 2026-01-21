@@ -1,0 +1,2 @@
+CS101|Object-Oriented Programming|3
+CS102|Data Structures and Algorithms|4

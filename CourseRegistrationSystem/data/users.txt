@@ -1,0 +1,4 @@
+Student|SV001|minh@gmail.com|Nguyen Van Minh|CNTT|2
+Student|SV002|lan@gmail.com|Tran Thi Lan|KTPM|3
+Instructor|GV001|thanh@ut.edu.vn|Le Van Thanh|CNTT
+Admin|AD001|admin@ut.edu.vn|System Admin

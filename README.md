@@ -37,11 +37,12 @@ Project supervisor: Trần Thị Mỹ Tiên
 - Compiler: g++, clang++, MSVC, etc.
 
 ### Compile (using g++)
-```bash
-g++ -std=c++11 -o course_system *.cpp
+-bash: 
+-g++ -std=c++11 -o course_system *.cpp
 
 ### Run
+- bash: 
 ./course_system
-# On Windows:
+- On Windows: 
 course_system.exe
 

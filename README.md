@@ -28,3 +28,18 @@ Project supervisor: Trần Thị Mỹ Tiên
 - Simple console menu interface for each role
 
 ## Project Structure:![download](https://github.com/user-attachments/assets/714a22f0-3224-43eb-94f6-aa37110444b0)
+
+
+## How to Build and Run
+
+### Requirements
+- C++11 or later
+- Compiler: g++, clang++, MSVC, etc.
+
+### Compile (using g++)
+```bash
+g++ -std=c++11 -o course_system *.cpp
+./course_system
+# On Windows:
+course_system.exe
+

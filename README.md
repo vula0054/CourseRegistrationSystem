@@ -39,6 +39,8 @@ Project supervisor: Trần Thị Mỹ Tiên
 ### Compile (using g++)
 ```bash
 g++ -std=c++11 -o course_system *.cpp
+
+### Run
 ./course_system
 # On Windows:
 course_system.exe

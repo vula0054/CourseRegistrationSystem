@@ -1,4 +1,4 @@
-Final project Software Engineering
+Final project Software Engineering_
 Project supervisor: Trần Thị Mỹ Tiên
 
 # CourseRegistrationSystem
